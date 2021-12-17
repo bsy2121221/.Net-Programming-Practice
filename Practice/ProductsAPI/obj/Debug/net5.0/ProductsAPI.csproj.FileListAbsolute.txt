@@ -1,0 +1,181 @@
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\appsettings.json
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\ProductsAPI.exe
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\ProductsAPI.deps.json
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\ProductsAPI.runtimeconfig.json
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\ProductsAPI.runtimeconfig.dev.json
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\ProductsAPI.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\ref\ProductsAPI.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\ProductsAPI.pdb
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\ProductsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\ProductsAPI.AssemblyInfoInputs.cache
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\ProductsAPI.AssemblyInfo.cs
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\ProductsAPI.csproj.CoreCompileInputs.cache
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\staticwebassets\ProductsAPI.StaticWebAssets.Manifest.cache
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\staticwebassets\ProductsAPI.StaticWebAssets.xml
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\scopedcss\bundle\ProductsAPI.styles.css
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\ProductsAPI.RazorTargetAssemblyInfo.cache
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\ProductsAPI.dll
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\ref\ProductsAPI.dll
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\ProductsAPI.pdb
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\ProductsAPI.genruntimeconfig.cache
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Humanizer.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LearningCore\ProductsAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LearningCore\ProductsAPI\obj\Debug\net5.0\ProductsAPI.csproj.AssemblyReference.cache
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ProductsAPI.exe
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ProductsAPI.deps.json
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ProductsAPI.runtimeconfig.json
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ProductsAPI.runtimeconfig.dev.json
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ProductsAPI.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ref\ProductsAPI.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ProductsAPI.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.csproj.AssemblyReference.cache
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.AssemblyInfoInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.AssemblyInfo.cs
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\staticwebassets\ProductsAPI.StaticWebAssets.Manifest.cache
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\staticwebassets\ProductsAPI.StaticWebAssets.xml
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\scopedcss\bundle\ProductsAPI.styles.css
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ref\ProductsAPI.dll
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.genruntimeconfig.cache
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ProductsAPI.exe
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ProductsAPI.deps.json
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ProductsAPI.runtimeconfig.json
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ProductsAPI.runtimeconfig.dev.json
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ProductsAPI.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ref\ProductsAPI.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\ProductsAPI.pdb
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.csproj.AssemblyReference.cache
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.AssemblyInfoInputs.cache
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.AssemblyInfo.cs
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\staticwebassets\ProductsAPI.StaticWebAssets.Manifest.cache
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\staticwebassets\ProductsAPI.StaticWebAssets.xml
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\scopedcss\bundle\ProductsAPI.styles.css
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.csproj.CopyComplete
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ref\ProductsAPI.dll
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.pdb
+C:\Users\Bablu.Kumar\Desktop\Practice\ProductsAPI\obj\Debug\net5.0\ProductsAPI.genruntimeconfig.cache

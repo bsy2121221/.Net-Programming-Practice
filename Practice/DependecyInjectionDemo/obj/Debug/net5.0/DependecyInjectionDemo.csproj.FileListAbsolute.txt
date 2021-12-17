@@ -1,0 +1,58 @@
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\bin\Debug\net5.0\appsettings.json
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\bin\Debug\net5.0\DependecyInjectionDemo.exe
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\bin\Debug\net5.0\DependecyInjectionDemo.deps.json
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\bin\Debug\net5.0\DependecyInjectionDemo.runtimeconfig.json
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\bin\Debug\net5.0\DependecyInjectionDemo.runtimeconfig.dev.json
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\bin\Debug\net5.0\DependecyInjectionDemo.dll
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\bin\Debug\net5.0\ref\DependecyInjectionDemo.dll
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\bin\Debug\net5.0\DependecyInjectionDemo.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.csproj.AssemblyReference.cache
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.AssemblyInfoInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.AssemblyInfo.cs
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\staticwebassets\DependecyInjectionDemo.StaticWebAssets.Manifest.cache
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\staticwebassets\DependecyInjectionDemo.StaticWebAssets.xml
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\scopedcss\bundle\DependecyInjectionDemo.styles.css
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.dll
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\ref\DependecyInjectionDemo.dll
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.genruntimeconfig.cache
+C:\Users\Bablu Yadav\Desktop\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.csproj.CopyComplete
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\bin\Debug\net5.0\appsettings.json
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\bin\Debug\net5.0\DependecyInjectionDemo.exe
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\bin\Debug\net5.0\DependecyInjectionDemo.deps.json
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\bin\Debug\net5.0\DependecyInjectionDemo.runtimeconfig.json
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\bin\Debug\net5.0\DependecyInjectionDemo.runtimeconfig.dev.json
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\bin\Debug\net5.0\DependecyInjectionDemo.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\bin\Debug\net5.0\ref\DependecyInjectionDemo.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\bin\Debug\net5.0\DependecyInjectionDemo.pdb
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.csproj.AssemblyReference.cache
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.AssemblyInfoInputs.cache
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.AssemblyInfo.cs
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\staticwebassets\DependecyInjectionDemo.StaticWebAssets.Manifest.cache
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\staticwebassets\DependecyInjectionDemo.StaticWebAssets.xml
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\scopedcss\bundle\DependecyInjectionDemo.styles.css
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.csproj.CopyComplete
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\ref\DependecyInjectionDemo.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.pdb
+C:\Users\Bablu.Kumar\Downloads\Practice\DependecyInjectionDemo\obj\Debug\net5.0\DependecyInjectionDemo.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousForm\bin\Debug\AnonymousForm.exe.config
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousForm\bin\Debug\AnonymousForm.exe
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousForm\bin\Debug\AnonymousForm.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousForm\obj\Debug\AnonymousForm.csproj.AssemblyReference.cache
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousForm\obj\Debug\AnonymousForm.Form1.resources
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousForm\obj\Debug\AnonymousForm.Properties.Resources.resources
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousForm\obj\Debug\AnonymousForm.csproj.GenerateResource.cache
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousForm\obj\Debug\AnonymousForm.csproj.CoreCompileInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousForm\obj\Debug\AnonymousForm.exe
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousForm\obj\Debug\AnonymousForm.pdb

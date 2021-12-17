@@ -1,0 +1,7 @@
+C:\Users\Bablu Yadav\Desktop\Practice\LazyLoadingDemo\bin\Debug\LazyLoadingDemo.exe.config
+C:\Users\Bablu Yadav\Desktop\Practice\LazyLoadingDemo\bin\Debug\LazyLoadingDemo.exe
+C:\Users\Bablu Yadav\Desktop\Practice\LazyLoadingDemo\bin\Debug\LazyLoadingDemo.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\LazyLoadingDemo\obj\Debug\LazyLoadingDemo.csproj.AssemblyReference.cache
+C:\Users\Bablu Yadav\Desktop\Practice\LazyLoadingDemo\obj\Debug\LazyLoadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\LazyLoadingDemo\obj\Debug\LazyLoadingDemo.exe
+C:\Users\Bablu Yadav\Desktop\Practice\LazyLoadingDemo\obj\Debug\LazyLoadingDemo.pdb

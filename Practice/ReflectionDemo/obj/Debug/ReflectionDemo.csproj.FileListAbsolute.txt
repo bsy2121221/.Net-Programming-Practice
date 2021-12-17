@@ -1,0 +1,7 @@
+C:\Users\Bablu Yadav\Desktop\Practice\ReflectionDemo\bin\Debug\ReflectionDemo.exe.config
+C:\Users\Bablu Yadav\Desktop\Practice\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+C:\Users\Bablu Yadav\Desktop\Practice\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.AssemblyReference.cache
+C:\Users\Bablu Yadav\Desktop\Practice\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\ReflectionDemo\obj\Debug\ReflectionDemo.exe
+C:\Users\Bablu Yadav\Desktop\Practice\ReflectionDemo\obj\Debug\ReflectionDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bablu Yadav\Desktop\Practice\Dispose\bin\Debug\Dispose.exe.config
+C:\Users\Bablu Yadav\Desktop\Practice\Dispose\bin\Debug\Dispose.exe
+C:\Users\Bablu Yadav\Desktop\Practice\Dispose\bin\Debug\Dispose.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\Dispose\obj\Debug\Dispose.csproj.AssemblyReference.cache
+C:\Users\Bablu Yadav\Desktop\Practice\Dispose\obj\Debug\Dispose.csproj.CoreCompileInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\Dispose\obj\Debug\Dispose.exe
+C:\Users\Bablu Yadav\Desktop\Practice\Dispose\obj\Debug\Dispose.pdb

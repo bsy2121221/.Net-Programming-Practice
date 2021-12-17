@@ -1,0 +1,5 @@
+D:\HCL\LearningDotNet\Collection\bin\Release\Collection.exe
+D:\HCL\LearningDotNet\Collection\bin\Release\Collection.pdb
+D:\HCL\LearningDotNet\Collection\obj\Release\ResolveAssemblyReference.cache
+D:\HCL\LearningDotNet\Collection\obj\Release\Collection.exe
+D:\HCL\LearningDotNet\Collection\obj\Release\Collection.pdb

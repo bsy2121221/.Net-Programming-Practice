@@ -1,0 +1,7 @@
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.AssemblyReference.cache
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+C:\Users\Bablu Yadav\Desktop\Practice\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

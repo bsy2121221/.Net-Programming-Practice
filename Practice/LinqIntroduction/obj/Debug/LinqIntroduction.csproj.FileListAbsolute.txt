@@ -1,0 +1,9 @@
+C:\Users\Bablu Yadav\Desktop\Practice\LinqIntroduction\bin\Debug\LinqIntroduction.exe.config
+C:\Users\Bablu Yadav\Desktop\Practice\LinqIntroduction\bin\Debug\LinqIntroduction.exe
+C:\Users\Bablu Yadav\Desktop\Practice\LinqIntroduction\bin\Debug\LinqIntroduction.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\LinqIntroduction\obj\Debug\LinqIntroduction.csproj.AssemblyReference.cache
+C:\Users\Bablu Yadav\Desktop\Practice\LinqIntroduction\obj\Debug\LinqIntroduction.Properties.Resources.resources
+C:\Users\Bablu Yadav\Desktop\Practice\LinqIntroduction\obj\Debug\LinqIntroduction.csproj.GenerateResource.cache
+C:\Users\Bablu Yadav\Desktop\Practice\LinqIntroduction\obj\Debug\LinqIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\LinqIntroduction\obj\Debug\LinqIntroduction.exe
+C:\Users\Bablu Yadav\Desktop\Practice\LinqIntroduction\obj\Debug\LinqIntroduction.pdb

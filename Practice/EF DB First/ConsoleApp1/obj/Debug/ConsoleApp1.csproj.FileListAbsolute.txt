@@ -1,0 +1,42 @@
+D:\Reference Material\PROGRAMS\CSharp\Monocept\EF DB First\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Reference Material\PROGRAMS\CSharp\Monocept\EF DB First\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Reference Material\PROGRAMS\CSharp\Monocept\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Reference Material\PROGRAMS\CSharp\Monocept\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Reference Material\PROGRAMS\CSharp\Monocept\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Reference Material\PROGRAMS\CSharp\Monocept\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Reference Material\PROGRAMS\CSharp\Monocept\EF DB First\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Reference Material\DXC Training\PROGRAMS\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Reference Material\DXC Training\PROGRAMS\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Reference Material\DXC Training\PROGRAMS\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\EntityFramework.dll
+D:\Reference Material\DXC Training\PROGRAMS\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Reference Material\DXC Training\PROGRAMS\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\EntityFramework.xml
+D:\Reference Material\DXC Training\PROGRAMS\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Reference Material\DXC Training\PROGRAMS\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Reference Material\DXC Training\PROGRAMS\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Reference Material\DXC Training\PROGRAMS\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\Reference Material\DXC Training\PROGRAMS\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Reference Material\DXC Training\PROGRAMS\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Reference Material\DXC Training\PROGRAMS\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\Reference Material\DXC Training-2\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Reference Material\DXC Training-2\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Reference Material\DXC Training-2\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Reference Material\DXC Training-2\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\EntityFramework.dll
+F:\Reference Material\DXC Training-2\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+F:\Reference Material\DXC Training-2\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\EntityFramework.xml
+F:\Reference Material\DXC Training-2\Entity Framework\EF DB First\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+F:\Reference Material\DXC Training-2\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\Reference Material\DXC Training-2\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Reference Material\DXC Training-2\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+F:\Reference Material\DXC Training-2\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Reference Material\DXC Training-2\Entity Framework\EF DB First\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

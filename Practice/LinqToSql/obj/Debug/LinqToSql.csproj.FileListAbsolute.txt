@@ -1,0 +1,7 @@
+D:\LearnDotnet\BabluDotnet\LinqToSql\bin\Debug\LinqToSql.exe.config
+D:\LearnDotnet\BabluDotnet\LinqToSql\bin\Debug\LinqToSql.exe
+D:\LearnDotnet\BabluDotnet\LinqToSql\bin\Debug\LinqToSql.pdb
+D:\LearnDotnet\BabluDotnet\LinqToSql\obj\Debug\LinqToSql.csproj.AssemblyReference.cache
+D:\LearnDotnet\BabluDotnet\LinqToSql\obj\Debug\LinqToSql.csproj.CoreCompileInputs.cache
+D:\LearnDotnet\BabluDotnet\LinqToSql\obj\Debug\LinqToSql.exe
+D:\LearnDotnet\BabluDotnet\LinqToSql\obj\Debug\LinqToSql.pdb

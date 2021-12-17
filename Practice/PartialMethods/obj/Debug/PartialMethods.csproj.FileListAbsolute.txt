@@ -1,0 +1,70 @@
+D:\Dhiraj\REFERENCE MATERIAL\PROGRAMS\Learning CSharp3.0\PartialMethods\obj\Debug\ResolveAssemblyReference.cache
+D:\Dhiraj\REFERENCE MATERIAL\PROGRAMS\Learning CSharp3.0\PartialMethods\bin\Debug\PartialMethods.exe
+D:\Dhiraj\REFERENCE MATERIAL\PROGRAMS\Learning CSharp3.0\PartialMethods\bin\Debug\PartialMethods.pdb
+D:\Dhiraj\REFERENCE MATERIAL\PROGRAMS\Learning CSharp3.0\PartialMethods\obj\Debug\PartialMethods.exe
+D:\Dhiraj\REFERENCE MATERIAL\PROGRAMS\Learning CSharp3.0\PartialMethods\obj\Debug\PartialMethods.pdb
+D:\Monocept\Learning CSharp3.0\PartialMethods\obj\Debug\PartialMethods.exe
+D:\Monocept\Learning CSharp3.0\PartialMethods\obj\Debug\PartialMethods.pdb
+D:\Monocept\Learning CSharp3.0\PartialMethods\obj\Debug\ResolveAssemblyReference.cache
+D:\Monocept\Learning CSharp3.0\PartialMethods\bin\Debug\PartialMethods.exe
+D:\Monocept\Learning CSharp3.0\PartialMethods\bin\Debug\PartialMethods.pdb
+D:\Monocept\DotNetLearning\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.exe
+D:\Monocept\DotNetLearning\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.pdb
+D:\Monocept\DotNetLearning\CSharp3.0\PartialMethods\obj\Debug\ResolveAssemblyReference.cache
+D:\Monocept\DotNetLearning\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.exe
+D:\Monocept\DotNetLearning\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.pdb
+D:\DHIRAJ\Reference Material\PROGRAMS\Monocept\DotNetLearning\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.exe
+D:\DHIRAJ\Reference Material\PROGRAMS\Monocept\DotNetLearning\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.pdb
+D:\DHIRAJ\Reference Material\PROGRAMS\Monocept\DotNetLearning\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.exe
+D:\DHIRAJ\Reference Material\PROGRAMS\Monocept\DotNetLearning\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.pdb
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.exe
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.pdb
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.csprojAssemblyReference.cache
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.csproj.CoreCompileInputs.cache
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.exe
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.pdb
+C:\Users\Dhiraj\Desktop\DXC Training\LearningDotNet-DXC\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.exe
+C:\Users\Dhiraj\Desktop\DXC Training\LearningDotNet-DXC\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.pdb
+C:\Users\Dhiraj\Desktop\DXC Training\LearningDotNet-DXC\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.csprojAssemblyReference.cache
+C:\Users\Dhiraj\Desktop\DXC Training\LearningDotNet-DXC\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.csproj.CoreCompileInputs.cache
+C:\Users\Dhiraj\Desktop\DXC Training\LearningDotNet-DXC\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.exe
+C:\Users\Dhiraj\Desktop\DXC Training\LearningDotNet-DXC\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.pdb
+C:\Users\Dhiraj\Desktop\DXC Training\LearningDotNet\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.exe
+C:\Users\Dhiraj\Desktop\DXC Training\LearningDotNet\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.pdb
+C:\Users\Dhiraj\Desktop\DXC Training\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.csprojAssemblyReference.cache
+C:\Users\Dhiraj\Desktop\DXC Training\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.csproj.CoreCompileInputs.cache
+C:\Users\Dhiraj\Desktop\DXC Training\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.exe
+C:\Users\Dhiraj\Desktop\DXC Training\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.pdb
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\LearningDotNet\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.exe.config
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\LearningDotNet\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.exe
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\LearningDotNet\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.pdb
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.csprojAssemblyReference.cache
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.csproj.CoreCompileInputs.cache
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.exe
+C:\Users\dhiraj\OneDrive\Desktop\DXC Training\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.pdb
+D:\Reference Material\DXC Training-2\LearningDotNet\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.exe.config
+D:\Reference Material\DXC Training-2\LearningDotNet\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.exe
+D:\Reference Material\DXC Training-2\LearningDotNet\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.pdb
+D:\Reference Material\DXC Training-2\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.csproj.CoreCompileInputs.cache
+D:\Reference Material\DXC Training-2\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.exe
+D:\Reference Material\DXC Training-2\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.pdb
+F:\Reference Material\DXC Training-2\LearningDotNet\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.exe.config
+F:\Reference Material\DXC Training-2\LearningDotNet\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.exe
+F:\Reference Material\DXC Training-2\LearningDotNet\CSharp3.0\PartialMethods\bin\Debug\PartialMethods.pdb
+F:\Reference Material\DXC Training-2\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.csproj.CoreCompileInputs.cache
+F:\Reference Material\DXC Training-2\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.exe
+F:\Reference Material\DXC Training-2\LearningDotNet\CSharp3.0\PartialMethods\obj\Debug\PartialMethods.pdb
+C:\Users\Dhiraj\Desktop\Grasko Training\DhirajDotnet\CSharp 3.0\PartialMethods\bin\Debug\PartialMethods.exe.config
+C:\Users\Dhiraj\Desktop\Grasko Training\DhirajDotnet\CSharp 3.0\PartialMethods\bin\Debug\PartialMethods.exe
+C:\Users\Dhiraj\Desktop\Grasko Training\DhirajDotnet\CSharp 3.0\PartialMethods\bin\Debug\PartialMethods.pdb
+C:\Users\Dhiraj\Desktop\Grasko Training\DhirajDotnet\CSharp 3.0\PartialMethods\obj\Debug\PartialMethods.csproj.AssemblyReference.cache
+C:\Users\Dhiraj\Desktop\Grasko Training\DhirajDotnet\CSharp 3.0\PartialMethods\obj\Debug\PartialMethods.csproj.CoreCompileInputs.cache
+C:\Users\Dhiraj\Desktop\Grasko Training\DhirajDotnet\CSharp 3.0\PartialMethods\obj\Debug\PartialMethods.exe
+C:\Users\Dhiraj\Desktop\Grasko Training\DhirajDotnet\CSharp 3.0\PartialMethods\obj\Debug\PartialMethods.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\PartialMethods\bin\Debug\PartialMethods.exe.config
+C:\Users\Bablu Yadav\Desktop\Practice\PartialMethods\bin\Debug\PartialMethods.exe
+C:\Users\Bablu Yadav\Desktop\Practice\PartialMethods\bin\Debug\PartialMethods.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\PartialMethods\obj\Debug\PartialMethods.csproj.AssemblyReference.cache
+C:\Users\Bablu Yadav\Desktop\Practice\PartialMethods\obj\Debug\PartialMethods.csproj.CoreCompileInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\PartialMethods\obj\Debug\PartialMethods.exe
+C:\Users\Bablu Yadav\Desktop\Practice\PartialMethods\obj\Debug\PartialMethods.pdb

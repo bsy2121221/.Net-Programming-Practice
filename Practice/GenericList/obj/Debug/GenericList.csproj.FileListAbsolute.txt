@@ -1,0 +1,7 @@
+C:\Users\Bablu Yadav\Desktop\Practice\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\Bablu Yadav\Desktop\Practice\GenericList\bin\Debug\GenericList.exe
+C:\Users\Bablu Yadav\Desktop\Practice\GenericList\bin\Debug\GenericList.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\GenericList\obj\Debug\GenericList.csproj.AssemblyReference.cache
+C:\Users\Bablu Yadav\Desktop\Practice\GenericList\obj\Debug\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\GenericList\obj\Debug\GenericList.exe
+C:\Users\Bablu Yadav\Desktop\Practice\GenericList\obj\Debug\GenericList.pdb

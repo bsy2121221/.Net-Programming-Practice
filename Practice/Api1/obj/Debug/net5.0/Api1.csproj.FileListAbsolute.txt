@@ -1,0 +1,86 @@
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\bin\Debug\net5.0\appsettings.json
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\bin\Debug\net5.0\Api1.exe
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\bin\Debug\net5.0\Api1.deps.json
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\bin\Debug\net5.0\Api1.runtimeconfig.json
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\bin\Debug\net5.0\Api1.runtimeconfig.dev.json
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\bin\Debug\net5.0\Api1.dll
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\bin\Debug\net5.0\ref\Api1.dll
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\bin\Debug\net5.0\Api1.pdb
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\Api1.csproj.AssemblyReference.cache
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\Api1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\Api1.AssemblyInfoInputs.cache
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\Api1.AssemblyInfo.cs
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\Api1.csproj.CoreCompileInputs.cache
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\Api1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\Api1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\staticwebassets\Api1.StaticWebAssets.Manifest.cache
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\staticwebassets\Api1.StaticWebAssets.xml
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\scopedcss\bundle\Api1.styles.css
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\Api1.RazorTargetAssemblyInfo.cache
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\Api1.dll
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\ref\Api1.dll
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\Api1.pdb
+C:\Users\Bablu Yadav\Desktop\Api1\Api1\obj\Debug\net5.0\Api1.genruntimeconfig.cache
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\bin\Debug\net5.0\appsettings.json
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\bin\Debug\net5.0\Api1.exe
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\bin\Debug\net5.0\Api1.deps.json
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\bin\Debug\net5.0\Api1.runtimeconfig.json
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\bin\Debug\net5.0\Api1.runtimeconfig.dev.json
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\bin\Debug\net5.0\Api1.dll
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\bin\Debug\net5.0\ref\Api1.dll
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\bin\Debug\net5.0\Api1.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\Api1.csproj.AssemblyReference.cache
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\Api1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\Api1.AssemblyInfoInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\Api1.AssemblyInfo.cs
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\Api1.csproj.CoreCompileInputs.cache
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\Api1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\Api1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\staticwebassets\Api1.StaticWebAssets.Manifest.cache
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\staticwebassets\Api1.StaticWebAssets.xml
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\scopedcss\bundle\Api1.styles.css
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\Api1.RazorTargetAssemblyInfo.cache
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\Api1.dll
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\ref\Api1.dll
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\Api1.pdb
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\Api1.genruntimeconfig.cache
+C:\Users\Bablu Yadav\Desktop\Practice\Api1\obj\Debug\net5.0\Api1.csproj.CopyComplete
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\bin\Debug\net5.0\appsettings.json
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\bin\Debug\net5.0\Api1.exe
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\bin\Debug\net5.0\Api1.deps.json
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\bin\Debug\net5.0\Api1.runtimeconfig.json
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\bin\Debug\net5.0\Api1.runtimeconfig.dev.json
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\bin\Debug\net5.0\Api1.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\bin\Debug\net5.0\ref\Api1.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\bin\Debug\net5.0\Api1.pdb
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\Api1.csproj.AssemblyReference.cache
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\Api1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\Api1.AssemblyInfoInputs.cache
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\Api1.AssemblyInfo.cs
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\Api1.csproj.CoreCompileInputs.cache
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\Api1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\Api1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\staticwebassets\Api1.StaticWebAssets.Manifest.cache
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\staticwebassets\Api1.StaticWebAssets.xml
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\scopedcss\bundle\Api1.styles.css
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\Api1.RazorTargetAssemblyInfo.cache
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\Api1.csproj.CopyComplete
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\Api1.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\ref\Api1.dll
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\Api1.pdb
+C:\Users\Bablu.Kumar\Downloads\Practice\Api1\obj\Debug\net5.0\Api1.genruntimeconfig.cache
